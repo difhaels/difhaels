@@ -4,6 +4,8 @@
 **difhaels/difhaels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ---
+### :man_technologist: I'm a student
+
 ### Skills (Languages and Tools) :
 <div>
   <a href="https://www.w3.org/standards/webdesign/htmlcss"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;</a>

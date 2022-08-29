@@ -23,4 +23,4 @@
   <a href="http://www.instagram.com/difhaels" target="_blank" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" style="max-width: 100%;"></a>
  </div>
  
- ### My training project = <a href="difhaels.github.io">difhaels.github.io<a/>
+ ### My training project = <a href="https://difhaels.github.io/">difhaels.github.io<a/>

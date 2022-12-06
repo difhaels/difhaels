@@ -21,9 +21,10 @@
   <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="40" height="40"/></a>
   <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/></a>
   </div>
+
 ### Sosials :
 <div>
   <a href="http://www.instagram.com/difhaels" target="_blank" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" style="max-width: 100%;"></a>
  </div>
  
- ### My Portfolio = <a href="https://difhaels.github.io/">difhaels.github.io/<a/>
+### My Portfolio = <a href="https://difhaels.github.io/">difhaels.github.io/<a/>

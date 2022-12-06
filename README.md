@@ -15,6 +15,7 @@
   <a href="https://tailwindcss.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwind" **alt="tailwind" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="40" height="40"/></a>
   <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" **alt="ReactJS" width="40" height="40"/>
 </div></a>
   
 

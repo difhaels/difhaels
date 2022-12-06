@@ -13,12 +13,14 @@
   <a href="https://www.javascript.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;</a>
   <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstarp" **alt="Bootstarp" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwind" **alt="tailwind" width="40" height="40"/></a>
-  <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="40" height="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-    <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" **alt="ReactJS" width="40" height="40"/>
-</div></a>
-  
+    <a href="https://reactjs.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" **alt="ReactJS" width="40" height="40"/>
+</div>
 
+### My Tools
+<div>  
+  <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="40" height="40"/></a>
+  <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/></a>
+  </div>
 ### Sosials :
 <div>
   <a href="http://www.instagram.com/difhaels" target="_blank" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" style="max-width: 100%;"></a>

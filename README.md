@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Agung saputra im 18 years old and i came from indonesian
+### Hi there 👋, Iam Agung Saputra
 
 <!--
 **difhaels/difhaels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
